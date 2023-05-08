@@ -1,0 +1,3 @@
+The VQGAN-CLIP used for experiments generating images which were found to be pornographic or sexualized is available from the developers at: https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ
+
+Due to the sensitive nature of its content, the Sexual OBjectification and EMotion Database (SOBEM) must be requested from its creators at https://sites.google.com/g.unitn.it/smablab/sobem-database?authuser=0.
